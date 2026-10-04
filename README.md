@@ -38,10 +38,16 @@
 - 🌱 Learning machine learning because it genuinely fascinates me — my current goal is a **reinforcement learning agent that plays Blackjack**, which is exactly why the engine above exists.
 - 💬 Happy to talk about test automation, embedded quality, or getting started with Python.
 
-### My GitHub activity
+### Let's connect
 
 <p align="center">
-  <img src="assets/activity.svg" alt="Public contribution dashboard for lysapala93, refreshed daily" width="100%">
+  <a href="https://www.linkedin.com/in/marco-slawek-9908a3144/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Marco Slawek on LinkedIn" height="48">
+  </a>
+  &nbsp;
+  <a href="https://github.com/lysapala93?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=github" alt="My GitHub repositories" height="48">
+  </a>
 </p>
 
-<sub>The dashboard above is generated from my public contributions and refreshed daily by a GitHub Actions workflow.</sub>
+<p align="center"><sub>Always open to a chat about embedded testing, Python or machine learning.</sub></p>
